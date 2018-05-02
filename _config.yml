@@ -27,7 +27,7 @@ navbar-links:
   Source Code:
     - CRAN: "https://CRAN.R-project.org/package=psychmeta"
     - GitHub: "https://github.com/jadahlke/psychmeta"
-  Learning Resources
+  Learning Resources:
     - Intro Vignette: "https://cran.r-project.org/web/packages/psychmeta/vignettes/overview.html"
     - Package Manual: "https://cran.r-project.org/web/packages/psychmeta/psychmeta.pdf"
 
