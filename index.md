@@ -1,6 +1,6 @@
 ---
 layout: page
-title: psychmeta
+title: ρsychμeta
 subtitle: Psychometric Meta-Analysis Toolkit
 use-site-title: true
 ---
