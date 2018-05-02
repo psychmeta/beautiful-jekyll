@@ -5,4 +5,4 @@ title: Contact Us
 
 We'd love to hear about your experience with `psychmeta`! 
 
-To report bugs or issues with `psychmeta`, please log your issue [here](https://github.com/jadahlke/psychmeta/issues) or [issues@psychmeta.com](mailto:issues@psychmeta.com). 
+To report bugs or issues with `psychmeta`, please log your issue [here](https://github.com/jadahlke/psychmeta/issues) or [email us](mailto:issues@psychmeta.com). 
