@@ -6,9 +6,9 @@ use-site-title: true
 ---
 
 [![Build Status](https://travis-ci.org/jadahlke/psychmeta.svg?branch=master)](https://travis-ci.org/jadahlke/psychmeta)
-[![CRAN Version](http://www.r-pkg.org/badges/version/psychmeta)](https://cran.r-project.org/package=psychmeta)
-[![Monthly Downloads](http://cranlogs.r-pkg.org/badges/psychmeta)](http://cranlogs.r-pkg.org/badges/psychmeta)
-[![Total Downloads](http://cranlogs.r-pkg.org/badges/grand-total/psychmeta)](http://cranlogs.r-pkg.org/badges/grand-total/psychmeta)
+[![CRAN Version](https://www.r-pkg.org/badges/version/psychmeta)](https://cran.r-project.org/package=psychmeta)
+[![Monthly Downloads](https://cranlogs.r-pkg.org/badges/psychmeta)](https://cranlogs.r-pkg.org/badges/psychmeta)
+[![Total Downloads](https://cranlogs.r-pkg.org/badges/grand-total/psychmeta)](https://cranlogs.r-pkg.org/badges/grand-total/psychmeta)
 
 ## About psychmeta
 The `psychmeta` package provides tools for computing bare-bones and psychometric meta-analyses and for generating psychometric data for use in meta-analysis simulations. Currently, the package supports bare-bones, individual-correction, and artifact-distribution methods for meta-analyzing correlations and *d* values. Please refer to the [overview tutorial vignette](https://cran.r-project.org/web/packages/psychmeta/vignettes/overview.html) for an introduction to `psychmeta`'s functions and workflows.
@@ -16,7 +16,7 @@ The `psychmeta` package provides tools for computing bare-bones and psychometric
 `psychmeta` is hosted on both [CRAN](https://cran.r-project.org/package=psychmeta) and [GitHub](https://github.com/jadahlke/psychmeta). Documentation for `psychmeta`'s functions is available in the package's [PDF manual](https://cran.r-project.org/web/packages/psychmeta/psychmeta.pdf)
 
 ## Authors
-`psychmeta` was written by [Jeffrey A. Dahlke](http://www.jeffreydahlke.com/) and [Brenton M. Wiernik](http://wiernik.org/).
+`psychmeta` was written by [Jeffrey A. Dahlke](https://www.jeffreydahlke.com/) and [Brenton M. Wiernik](https://wiernik.org/).
 
 ## Installation Instructions
 The official [CRAN release](https://cran.r-project.org/package=psychmeta) of `psychmeta` can be installed with the following code:
