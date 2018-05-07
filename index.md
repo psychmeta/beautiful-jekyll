@@ -15,7 +15,7 @@ The `psychmeta` package provides tools for computing bare-bones and psychometric
 
 `psychmeta` is hosted on both [CRAN](https://cran.r-project.org/package=psychmeta) and [GitHub](https://github.com/jadahlke/psychmeta). Documentation for `psychmeta`'s functions is available in the package's [PDF manual](https://cran.r-project.org/web/packages/psychmeta/psychmeta.pdf).
 
-`psychmeta` tweets about updates, news, tips, and more - [follow us on Twitter](https://twitter.com/psychmetaR).
+***We're social!*** `psychmeta` tweets about updates, news, tips, and more - [follow us on Twitter](https://twitter.com/psychmetaR).
 
 ## Authors
 `psychmeta` was written by [Jeffrey A. Dahlke](https://www.jeffreydahlke.com/) and [Brenton M. Wiernik](https://wiernik.org/).
