@@ -4,7 +4,7 @@ title: Contact Us
 ---
 
 ## Feedback and Questions
-We'd love to hear about your experience with `psychmeta`! Have a question or concern? Are you interested in telling us about how you're using `psychmeta` in your classroom? Want to give us a pat on the back (or yell at us)? Tell us about it by [emailing us](mailto:psychmeta@psychmeta.com) or [Tweeting to psychmeta](https://twitter.com/psychmetaR). 
+We'd love to hear about your experience with `psychmeta`! Have a question or concern? Are you interested in telling us about how you're using `psychmeta` in your classroom? Want to give us a pat on the back (or yell at us)? Tell us about it by [emailing us](mailto:psychmeta@psychmeta.com) or [tweeting to psychmeta](https://twitter.com/psychmetaR). 
 
 ## Reaching the Authors
 Have a matter to discuss with one of us individually or want to learn about our work? Here's how you can reach us:
