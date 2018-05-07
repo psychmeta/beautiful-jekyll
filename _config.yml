@@ -23,6 +23,7 @@ description: Psychometric Meta-Analysis Toolkit
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   Contact Us: "contact"
   Source Code:
     - CRAN: "https://CRAN.R-project.org/package=psychmeta"
