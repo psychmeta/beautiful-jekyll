@@ -5,8 +5,8 @@ subtitle: Psychometric Meta-Analysis Toolkit
 use-site-title: true
 ---
 
-[![Build Status](https://travis-ci.org/psychmeta/psychmeta.svg?branch=master)](https://travis-ci.org/jadahlke/psychmeta)
 [![CRAN Version](https://www.r-pkg.org/badges/version/psychmeta)](https://cran.r-project.org/package=psychmeta)
+[![Build Status](https://travis-ci.org/psychmeta/psychmeta.svg?branch=master)](https://travis-ci.org/jadahlke/psychmeta)
 [![Monthly Downloads](https://cranlogs.r-pkg.org/badges/psychmeta)](https://cranlogs.r-pkg.org/badges/psychmeta)
 [![Total Downloads](https://cranlogs.r-pkg.org/badges/grand-total/psychmeta)](https://cranlogs.r-pkg.org/badges/grand-total/psychmeta)
 
