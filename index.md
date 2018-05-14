@@ -29,7 +29,7 @@ install.packages("psychmeta")
 The unofficial [GitHub release](https://github.com/jadahlke/psychmeta) of `psychmeta` reflects updates made to the package between official CRAN releases. Using the [devtools](https://cran.r-project.org/package=devtools) package, the GitHub release can be installed with the following code:
 ```r
 install.packages("devtools")
-devtools::install_github("jadahlke/psychmeta")
+devtools::install_github("psychmeta/psychmeta")
 ```
 
 ## Citing psychmeta
@@ -39,4 +39,4 @@ citation("psychmeta")
 ```
 
 ## Reporting Issues
-To report a bug or other issue, [tell us about it on GitHub](https://github.com/psychmeta/psychmeta/issues) or email [issues@psychmeta.com](mailto:issues@psychmeta.com). If you have a question about the package, reach out to us on [Twitter](https://twitter.com/psychmetaR) or email [psychmeta@psychmeta.com](mailto:psychmeta@psychmeta.com).
+To report a bug or other issue, [tell us about it on GitHub](https://github.com/psychmeta/psychmeta/issues) or email [issues@psychmeta.com](mailto:issues@psychmeta.com). For more general questions and inquiries about the package, reach out to us via [Twitter](https://twitter.com/psychmetaR) or email [psychmeta@psychmeta.com](mailto:psychmeta@psychmeta.com).
