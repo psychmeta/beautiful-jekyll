@@ -16,13 +16,13 @@ Note that the “base R” program that you get from the above link can work as 
 
 - Emmanuel Paradis’ [“R for Beginners”](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) is a free book for introductory R topics.
 
-- The “Personality Project” is a project led by William Revelle (author of the “psych” R package) and the [Personality Project website](http://personality-project.org/r/) hosts a series of tutorials for psychologists interested in learning R. 
+- The “Personality Project” is a project led by William Revelle (author of the [`psych` R package](https://cran.r-project.org/web/packages/psych/index.html)) and the [Personality Project website](http://personality-project.org/r/) hosts a series of tutorials for psychologists interested in learning R. 
 
 - Code School’s [“Try R”](http://tryr.codeschool.com/) is a free tutorial that provides opportunities to practice using the R language in the comfort of your own browser window.
 
 
 ## Find Cool Packages for R!
-After installing R and learning the basics, it’s time to explore the vast world of user-developed R packages. There are thousands of packages available for R, but below are some of our favorites (other than `psychmeta`, of course!). 
+After installing R and learning the basics, it’s time to explore the vast world of user-developed R packages. There are thousands of packages available for R, but below are some of our favorites (other than `psychmeta`, of course!). You can also find a complete list of the R packages hosted on CRAN [here](https://cran.r-project.org/web/packages/available_packages_by_name.html).
 
 ### `tidyverse`
 The `tidyverse` package is actually a collection of packages that can help with data importation, data cleaning, data management, creating beautiful plots, and much more. 
@@ -43,3 +43,6 @@ The `psych` package is a collection of resources for psychologists and has wonde
 The `apaTables` package is a great help for doing reproducible analyses in R. It can export R analyses to Word-format APA-style tables for common types of analyses (e.g., regression models, ANOVAs, correlation matrices).
 - [CRAN documentation](https://cran.r-project.org/web/packages/apaTables/index.html)
 
+
+## Explore More Meta-Analysis Tools for R!
+If you'd like to explore more R packages for meta-analysis, check out [CRAN's meta-analysis task view](https://CRAN.R-project.org/view=MetaAnalysis).
