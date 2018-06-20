@@ -16,7 +16,7 @@ There is a vertiable trove of introductory R resources on the Internet, but belo
 
 - RStudio has also compiled a nice [compendium of R learning resources](https://www.rstudio.com/online-learning/).
 
-- Emmanuel Paradis’ [“R for Beginners”](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) is a free e-book on introductory R topics.
+- Steven Nydick's ["Intro to R for Psychologists"](http://talklab.psy.gla.ac.uk/L1_labs/resources/Introduction_to_R_Guide.pdf) and Emmanuel Paradis’ [“R for Beginners”](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) are free e-books on introductory R topics.
 
 - The “Personality Project” is a project led by William Revelle (author of the [`psych` R package](https://cran.r-project.org/web/packages/psych/index.html)) and the [Personality Project website](http://personality-project.org/r/) hosts a series of tutorials for psychologists interested in learning R. 
 
