@@ -25,7 +25,9 @@ Note that the “base R” program that you get from the above link can work as 
 After installing R and learning the basics, it’s time to explore the vast world of user-developed R packages. There are thousands of packages available for R, but here are some of our favorites (other than `psychmeta`, of course!). 
 
 ### `tidyverse`
-The `tidyverse` package is actually a collection of packages that can help with data importation, data cleaning, data management, creating beautiful plots, and much more. Vist [here](https://www.tidyverse.org/) for more info about the packages included in the `tidyverse`. 
+The `tidyverse` package is actually a collection of packages that can help with data importation, data cleaning, data management, creating beautiful plots, and much more. 
+- [`tidyverse` webpage](https://www.tidyverse.org/)
+- [CRAN documentation](https://cran.r-project.org/web/packages/tidyverse/index.html)
 
 ### `metafor`
 The `metafor` package is arguably the most popular package for meta-analysis in R. It has great tools for computing meta-regressions, doing publication-bias analyses, and plotting meta-analytic results. 
@@ -34,8 +36,8 @@ The `metafor` package is arguably the most popular package for meta-analysis in 
 
 ### `psych`
 The `psych` package is a collection of resources for psychologists and has wonderful functions for factor analysis, reliability analysis, item analysis, and much more. 
-- [Intro to `psych`](http://personality-project.org/r/overview.pdf)
-- CRAN documentation: https://cran.r-project.org/web/packages/psych/index.html 
+- [Introduction to `psych`](http://personality-project.org/r/overview.pdf)
+- [CRAN documentation](https://cran.r-project.org/web/packages/psych/index.html)
 
 ### `apaTables`
 The `apaTables` package is a great help for doing reproducible analyses in R. It can export R analyses to Word-format APA-style tables for common types of analyses (e.g., regression models, ANOVAs, correlation matrices).
