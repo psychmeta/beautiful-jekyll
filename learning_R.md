@@ -4,7 +4,7 @@ title: Getting Started with R
 ---
 
 ## Install R
-R is freely available [here](https://cran.r-project.org/)
+R is freely available [here](https://cran.r-project.org/) from the "Comprehensive R Archival Network" (CRAN). 
 
 Note that the “base R” program that you get from the above link can work as a standalone analysis software, but we strongly recommend using a program like [RStudio](https://www.rstudio.com/) to make your life easier. RStudio is the most popular, feature-rich, and user-friendly way to interact with R and develop your R scripts. 
 
