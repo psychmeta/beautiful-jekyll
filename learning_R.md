@@ -10,7 +10,7 @@ Note that the “base R” program that you get from the above link can work as 
 
 
 ## Learn About R!
-- The [R-bloggers site](https://www.r-bloggers.com) has a [great post](https://www.r-bloggers.com/the-5-most-effective-ways-to-learn-r/) featuring five ways to learn R with links to resources for each learning method:
+- The [R-bloggers site](https://www.r-bloggers.com) has a [great post](https://www.r-bloggers.com/the-5-most-effective-ways-to-learn-r/) featuring five ways to learn R with links to resources for each learning method.
 
 - RStudio has also compiled a nice [compendium of R learning resources](https://www.rstudio.com/online-learning/).
 
