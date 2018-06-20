@@ -29,8 +29,9 @@ navbar-links:
     - CRAN: "https://CRAN.R-project.org/package=psychmeta"
     - GitHub: "https://github.com/jadahlke/psychmeta"
   Learning Resources:
-    - Intro Vignette: "https://cran.r-project.org/web/packages/psychmeta/vignettes/overview.html"
-    - Package Manual: "https://cran.r-project.org/web/packages/psychmeta/psychmeta.pdf"
+    - Getting Started with R: "learning-R"
+    - psychmeta Intro Vignette: "https://cran.r-project.org/web/packages/psychmeta/vignettes/overview.html"
+    - psychmeta PDF Manual: "https://cran.r-project.org/web/packages/psychmeta/psychmeta.pdf"
     - More Meta-Analysis Tools for R: "https://CRAN.R-project.org/view=MetaAnalysis"
 
 # Image to show in the navigation bar - image must be a square (width = height)
