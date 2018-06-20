@@ -39,7 +39,7 @@ The `metafor` package is the most popular package for (non-psychometric) meta-an
 ### `psych`
 The `psych` package is a collection of resources for psychologists and has wonderful functions for factor analysis, reliability analysis, item analysis, and much more. 
 - [CRAN documentation](https://cran.r-project.org/web/packages/psych/index.html)
-- [Introduction to `psych`](http://personality-project.org/r/overview.pdf)
+- [Overview of `psych`](http://personality-project.org/r/overview.pdf)
 
 ### `apaTables`
 The `apaTables` package is a great help for doing reproducible analyses in R. It can export R analyses to Word-format APA-style tables for common types of analyses (e.g., regression models, ANOVAs, correlation matrices).
