@@ -6,10 +6,12 @@ title: Getting Started with R
 ## Install R!
 R is freely available [here](https://cran.r-project.org/) from the "Comprehensive R Archival Network" (CRAN). 
 
-Note that the “base R” program that you get from the above link can work as a standalone analysis software, but we strongly recommend using a program like [RStudio](https://www.rstudio.com/) to make your life easier. RStudio is the most popular, feature-rich, and user-friendly way to interact with R and develop your R scripts. 
+Note that the “base R” program that you get from the above link can work as a standalone analysis software, but we strongly recommend using a program like [RStudio](https://www.rstudio.com/) to make your life easier. [RStudio](https://www.rstudio.com/) is the most popular, feature-rich, and user-friendly way to interact with R and develop your R scripts. 
 
 
 ## Learn About R!
+There is a vertiable trove of introductory R resources on the Internet, but below are several resources you might find especially helpful if you're new to R. Bear in mind that most questions about R have already been answered by someone somewhere on the web, so Google will be your best friend as you set out on your R journey. 
+
 - The [R-bloggers site](https://www.r-bloggers.com) has a [great post](https://www.r-bloggers.com/the-5-most-effective-ways-to-learn-r/) featuring five ways to learn R with links to resources for each learning method.
 
 - RStudio has also compiled a nice [compendium of R learning resources](https://www.rstudio.com/online-learning/).
