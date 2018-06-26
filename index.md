@@ -33,7 +33,7 @@ devtools::install_github("psychmeta/psychmeta")
 ```
 
 ## Citing psychmeta
-To cite `psychmeta` in your resarch, please refer to the package's citation information using the `citation()` function.
+To cite `psychmeta` in your research, please refer to the package's citation information using the `citation()` function.
 ```r
 citation("psychmeta")
 ```
