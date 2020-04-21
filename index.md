@@ -18,7 +18,7 @@ The `psychmeta` package provides tools for computing bare-bones and psychometric
 ***We're social!*** [Follow psychmeta on Twitter](https://twitter.com/psychmetaR) for news, tips, update announcements, and more.
 
 ## Authors
-`psychmeta` was written by [Jeffrey A. Dahlke](https://www.jeffreydahlke.com/) and [Brenton M. Wiernik](https://wiernik.org/).
+`psychmeta` was written by Jeffrey A. Dahlke and [Brenton M. Wiernik](https://wiernik.org/).
 
 ## Installation Instructions
 The official [CRAN release](https://cran.r-project.org/package=psychmeta) of `psychmeta` can be installed with the following code:
