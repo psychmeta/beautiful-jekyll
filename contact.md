@@ -8,7 +8,7 @@ We'd love to hear about your experience with `psychmeta`! Have a question or con
 
 ## Reaching the Authors
 Have a matter to discuss with one of us individually or want to learn about our work? Here's how you can reach us:
- - Jeff ([Email](mailto:jeff@psychmeta.com), [Twitter](https://twitter.com/jeffreydahlke))
+ - Jeff ([Email](mailto:jeff@psychmeta.com), [Twitter](https://twitter.com/jeffreydahlke), [Website](https://jeffreydahlke.com))
  - Brenton ([Email](mailto:brenton@psychmeta.com), [Twitter](https://twitter.com/bmwiernik), [Website](https://wiernik.org))
 
 ## Reporting Bugs
